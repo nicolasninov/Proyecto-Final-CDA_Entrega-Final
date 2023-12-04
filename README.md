@@ -9,5 +9,4 @@ En esta última entrega se va abordar los resultados de los modelos implementado
 
 No se entrega notebook debido a que con el enviado en la entrega 2 se desarrollaron el modelo, en esta entrega solo se va abordar el despliegue de los resultados
 
-Se anexa link en drive donde se encuentra toda la información y arcg¿archivos del aplicativo web que por temas de peso del archivo se envía por ese medio
-https://uniandes-my.sharepoint.com/:f:/r/personal/g_hernandezr_uniandes_edu_co/Documents/PROYECTO%20CIENCIA%20DE%20DATOS%202023/Aplicativo%20Web?csf=1&web=1&e=vDyNp1
+En caso de no poder visualizarse el aplicativo con el main anexo, se envía link en drive donde se encuentra toda la información y arcg¿archivos del aplicativo web que por temas de peso del archivo se envía por ese medio: https://uniandes-my.sharepoint.com/:f:/r/personal/g_hernandezr_uniandes_edu_co/Documents/PROYECTO%20CIENCIA%20DE%20DATOS%202023/Aplicativo%20Web?csf=1&web=1&e=vDyNp1
