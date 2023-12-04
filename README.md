@@ -6,3 +6,5 @@ Nicolas Esteban Niño Vega - Código 202324436
 Juan Diego Ospina Aguirre - Código 201814547 
 
 En esta última entrega se va abordar los resultados de los modelos implementados en el producto de datos a través del aplicativo web para uso del usuario y se presentará el seguimiento de las respectivas reuniones entre el personal de la compañia Xenital y los estudianes
+
+No se entrega notebook debido a que con el enviado en la entrega 2 se desarrollaron el modelo, en esta entrega solo se va abordar el despliegue de los resultados
